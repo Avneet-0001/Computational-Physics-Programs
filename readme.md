@@ -1,1 +1,1 @@
-This code is for my GRIP internship.
+This code is for my GRIP Internship.
